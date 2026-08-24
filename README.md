@@ -1,2 +1,5 @@
 # USBHDDtest-for-Win
 一个可以批量化测试移动硬盘，U盘或者其他设备可靠性的工具，主要运行在Windows环境下，可以自定义测试次数，批量化自动运行，测试报告会安保存在其余目录，自解压格式点击EXE自动运行，也可以点击.bat文件运行，核心python脚步复制到待测硬盘也可以单次测试。.bat会同步安装所有依赖，经蓝色大肥鱼测试可以在Win7和以上设备安全运行。测试逻辑比较保守，只要是公司来测试小容量EMMC使用，如果有别的需要可以叫蓝色大肥鱼帮你改。代码对AI可读性还是可以的。
+
+完整自解压包如下：https://pan.baidu.com/s/1V_MNK7aUa73UUn9NXKalYQ?pwd=gf9p 提取码：gf9p
+Python包连接https://pan.baidu.com/s/12uNqfjohRTKS78L-RKbWDg?pwd=f6cy  提取码：f6cy 
